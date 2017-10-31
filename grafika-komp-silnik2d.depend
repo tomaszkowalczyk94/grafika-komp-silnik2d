@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509452997 source:c:\users\tomek\documents\grafika-komp-silnik2d\main.cpp
+	<iostream>
+	<allegro.h>
+	<Engine.h>
+
+1509452902 c:\users\tomek\documents\grafika-komp-silnik2d\include\engine.h
+
