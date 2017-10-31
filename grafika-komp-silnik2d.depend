@@ -6,3 +6,9 @@
 
 1509452902 c:\users\tomek\documents\grafika-komp-silnik2d\include\engine.h
 
+1509452902 source:c:\users\tomek\documents\grafika-komp-silnik2d\include\engine.h
+
+1509453009 source:c:\users\tomek\documents\grafika-komp-silnik2d\src\engine.cpp
+	"Engine.h"
+	<allegro.h>
+
