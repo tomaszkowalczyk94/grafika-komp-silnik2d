@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "No elo!" << endl;
+    cout << "No elo! druga zmiana" << endl;
     return 0;
 }
